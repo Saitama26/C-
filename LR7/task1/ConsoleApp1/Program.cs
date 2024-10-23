@@ -1,24 +1,30 @@
-﻿namespace ConsoleApp1
+﻿using System.Text.RegularExpressions;
+
+namespace ConsoleApp1
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            string poems = "тучки небесные вечные странники"; 
-            char[] div = { ' ' }; //создаем массив разделителей
-
-            string[] parts = poems.Split(div);
-            Console.WriteLine("Результат разбиения строки на части: ");
-            for (int i = 0; i < parts.Length; i++)
-            {
-                Console.WriteLine(parts[i]);
-
-            }
-        
-            string whole = String.Join(" | ", parts.Reverse()); 
-            Console.WriteLine("Результат сборки: ");
-            Console.WriteLine(whole);
-
+            Console.WriteLine(FindSumOfNumbers(Console.ReadLine()));
         }
+
+        public static double FindSumOfNumbers(string input)
+        {
+            double sum = 0;
+            MatchCollection matches = Regex.Matches(input, @"-?\d+(,\d+)?([eE][+-]?\d+)?"); 
+
+            foreach (Match match in matches)
+            {
+                if (double.TryParse(match.Value, out double num))
+                {
+                    Console.WriteLine(num);
+                    sum += num;
+                }
+            }
+
+            return sum;
+        }
+
     }
 }
