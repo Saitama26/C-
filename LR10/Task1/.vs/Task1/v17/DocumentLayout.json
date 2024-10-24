@@ -5,6 +5,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\programing\\csharp\\college\\lr10\\task1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\programing\\csharp\\college\\lr10\\task1\\consoleapp1\\sharewaresoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sharewaresoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\programing\\csharp\\college\\lr10\\task1\\consoleapp1\\proprietarysoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\proprietarysoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\programing\\csharp\\college\\lr10\\task1\\consoleapp1\\freesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\freesoftware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|d:\\programing\\csharp\\college\\lr10\\task1\\consoleapp1\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB832D51-8002-4194-BBDE-6149E22117A4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\software.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +40,61 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-23T18:44:45.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Software.cs",
+              "DocumentMoniker": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\Software.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Software.cs",
+              "ToolTip": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\Software.cs",
+              "RelativeToolTip": "ConsoleApp1\\Software.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T18:48:57.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FreeSoftware.cs",
+              "DocumentMoniker": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\FreeSoftware.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\FreeSoftware.cs",
+              "ToolTip": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\FreeSoftware.cs",
+              "RelativeToolTip": "ConsoleApp1\\FreeSoftware.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAgwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:39:17.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SharewareSoftware.cs",
+              "DocumentMoniker": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\SharewareSoftware.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\SharewareSoftware.cs",
+              "ToolTip": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\SharewareSoftware.cs",
+              "RelativeToolTip": "ConsoleApp1\\SharewareSoftware.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:53:54.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProprietarySoftware.cs",
+              "DocumentMoniker": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\ProprietarySoftware.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ProprietarySoftware.cs",
+              "ToolTip": "D:\\Programing\\CSharp\\College\\LR10\\Task1\\ConsoleApp1\\ProprietarySoftware.cs",
+              "RelativeToolTip": "ConsoleApp1\\ProprietarySoftware.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T20:21:34.239Z",
               "EditorCaption": ""
             }
           ]
